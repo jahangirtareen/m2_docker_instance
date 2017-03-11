@@ -1,1 +1,1 @@
-# m2_docker_instance
+# magento2docker
